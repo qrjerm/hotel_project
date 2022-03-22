@@ -21,7 +21,7 @@
 ## Building Dashboard in PowerBI
 * Split Interactive Dashboard into 3 segments
 * First Segment includes:
-⋅⋅* Total Revenue between 2018 and 2020
+..* Total Revenue between 2018 and 2020
 ⋅⋅* The average daily rate
 ⋅⋅* Total nights booked
 ⋅⋅* The average discount
