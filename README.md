@@ -21,20 +21,20 @@
 ## Building Dashboard in PowerBI
 * Split Interactive Dashboard into 3 segments
 * First Segment includes:
-..* Total Revenue between 2018 and 2020
-⋅⋅* The average daily rate
-⋅⋅* Total nights booked
-⋅⋅* The average discount
-⋅⋅* The total number of parking spaces used
-⋅⋅* A dropdown list to view data by country
-⋅⋅* A dropdown list to view data by hotel
-⋅⋅* A date slider to see data anywhere between January 1st, 2018 and September 14th, 2020
+  * Total Revenue between 2018 and 2020
+  * The average daily rate
+  * Total nights booked
+  * The average discount
+  * The total number of parking spaces used
+  * A dropdown list to view data by country
+  * A dropdown list to view data by hotel
+  * A date slider to see data anywhere between January 1st, 2018 and September 14th, 2020
 * Second Segment includes:
-⋅⋅* Dual line graph to compare revenue earned by the city hotel and the resort hotel
+  * Dual line graph to compare revenue earned by the city hotel and the resort hotel
 * Last Segment includes:
-⋅⋅* Table with total revenue split by year and hotel
-⋅⋅* Number of parking spaces used each year along with percentage of spots used (percentage of parking lot used)
-⋅⋅* Donut chart showcasing total revenue by hotel 
+  * Table with total revenue split by year and hotel
+  * Number of parking spaces used each year along with percentage of spots used (percentage of parking lot used)
+  * Donut chart showcasing total revenue by hotel 
 
 ## [Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
 
