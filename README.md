@@ -1,9 +1,17 @@
 
 # [Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
 
-## Project 1: Building a dashboard with PowerBI to present to stakeholders
+## Hotel Dashboard: Project Overview
+* Built a dashboard with PowerBI to present to stakeholders
 * Created a sample dashboard in PowerBI using SQL queries to answer business questions:
 * "Is our revenue growing by year?"
 * "Should we increase our parking lot size?"
 * "What trends can we see in the data?"
+
+## Resources Used
+* Microsoft SQL Serve Management Studio 2019
+* Microsoft PowerBI
 * Sample data from [Absentdata.com](https://www.absentdata.com/hotel_revenue_historical_full/)
+
+## Using SQL to create queries to load into PowerBI
+* Used SQL to combine hotel data tables for years 2018 to 2020
