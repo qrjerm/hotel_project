@@ -30,11 +30,26 @@
   * A dropdown list to view data by hotel
   * A date slider to see data anywhere between January 1st, 2018 and September 14th, 2020
 * Second Segment includes:
-  * Dual line graph to compare revenue earned by the city hotel and the resort hotel
+  * Line graph to compare revenue earned by the city hotel and the resort hotel
 * Last Segment includes:
   * Table with total revenue split by year and hotel
   * Number of parking spaces used each year along with percentage of spots used (percentage of parking lot used)
   * Donut chart showcasing total revenue by hotel 
 
 ## [Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
+
+## SQL query used:
+
+WITH hotels AS (
+SELECT * FROM dbo.['2018$']
+UNION
+SELECT * FROM dbo.['2019$']
+UNION
+SELECT * FROM dbo.['2020$'])
+
+SELECT * FROM hotels
+LEFT JOIN dbo.market_segment$
+ON hotels.market_segment = market_segment$.market_segment
+LEFT JOIN dbo.meal_cost$
+ON hotels.meal = dbo.meal_cost$.meal
 
