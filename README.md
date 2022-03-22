@@ -38,18 +38,3 @@
 
 ## [Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
 
-## SQL query used:
-
-WITH hotels AS (
-SELECT * FROM dbo.['2018$']
-UNION
-SELECT * FROM dbo.['2019$']
-UNION
-SELECT * FROM dbo.['2020$'])
-
-SELECT * FROM hotels
-LEFT JOIN dbo.market_segment$
-ON hotels.market_segment = market_segment$.market_segment
-LEFT JOIN dbo.meal_cost$
-ON hotels.meal = dbo.meal_cost$.meal
-
