@@ -1,5 +1,5 @@
 
-# [Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
+# [Completed Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
 
 ## Hotel Dashboard: Project Overview
 * Built a dashboard with PowerBI to present to stakeholders
@@ -36,5 +36,5 @@
   * Number of parking spaces used each year along with percentage of spots used (percentage of parking lot used)
   * Donut chart showcasing total revenue by hotel 
 
-## [Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
+[Click here to see completed Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
 
