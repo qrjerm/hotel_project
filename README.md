@@ -9,12 +9,12 @@
 * "What trends can we see in the data?"
 
 ## Resources Used
-* Microsoft SQL Serve Management Studio 2019
+* Microsoft SQL Server Management Studio 2018
 * Microsoft PowerBI
 * Sample data from [Absentdata.com](https://www.absentdata.com/hotel_revenue_historical_full/)
 
 ## Using SQL to create queries to load into PowerBI
-* Used SQL to combine hotel data tables for years 2018 to 2020
+* Used SSMS18 to combine hotel data tables for years 2018 to 2020
 * Wrote a query to calculate yearly revenue by multiplying the daily rate by total nights nights stayed
 * Loaded the query into PowerBI for visualization and analysis
 
