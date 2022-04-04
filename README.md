@@ -2,7 +2,6 @@
 # [Completed Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
 
 ## Hotel Dashboard: Project Overview
-* Built a dashboard with PowerBI to present to stakeholders
 * Created a sample dashboard in PowerBI using SQL queries to answer business questions:
 * "Is our revenue growing by year?"
 * "Should we increase our parking lot size?"
