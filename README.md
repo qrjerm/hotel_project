@@ -14,7 +14,7 @@
 
 ## Using SQL to create queries to load into PowerBI
 * Used SSMS18 to combine hotel data tables for years 2018 to 2020
-* Wrote a query to calculate yearly revenue by multiplying the daily rate by total nights nights stayed
+* Wrote a query to calculate yearly revenue by multiplying the daily rate by total nights stayed
 * Loaded the query into PowerBI for visualization and analysis
 
 ## Building Dashboard in PowerBI
