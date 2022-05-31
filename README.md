@@ -1,5 +1,6 @@
 
 # [Completed Hotel Project Dashboard (Pdf)](https://github.com/qrjerm/hotel_project/blob/main/Hotel.pdf)
+![HotelDB](https://user-images.githubusercontent.com/82239548/171299742-dbd37d3e-3d69-45c0-bfc3-efd2ad025e94.jpg)
 
 ## Hotel Dashboard: Project Overview
 * Created a sample dashboard in PowerBI using SQL queries to answer business questions:
